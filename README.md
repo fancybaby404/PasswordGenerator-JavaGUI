@@ -17,7 +17,6 @@ TLDR:
 
 * Head Development Team
     * Macato, Julian
-* Software Tester Team
     * Santera, Ric
 * UI/UX Team
     * Torregoza, Arnold
