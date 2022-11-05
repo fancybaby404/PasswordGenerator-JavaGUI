@@ -12,3 +12,12 @@
 
 TLDR:
   Download JDK -> Download the repository -> Navigate to dist folder -> run the .jar file.
+
+## Contributers
+
+* Head Development Team
+    * Macato, Julian
+* Software Tester Team
+    * Santera, Ric
+* UI/UX Team
+    * Torregoza, Arnold
